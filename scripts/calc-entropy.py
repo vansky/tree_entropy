@@ -1,3 +1,5 @@
+#cat grammar | python calc-entropy.py
+# grammar: a pre-trained grammar file (in a form model.CondModel can read)
 
 ########################################
 #
